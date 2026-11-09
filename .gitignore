@@ -1,0 +1,5 @@
+# Artifacts
+out/
+
+# Zig cache
+.zig-cache/
